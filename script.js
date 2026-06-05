@@ -7,7 +7,7 @@
 'use strict';
 
 // 1) API CONFIGURATION
-const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY'; // Replace this with your OpenWeatherMap key
+const API_KEY = '718ab84bc8243784bf7268545ac913f6'; //  OpenWeatherMap API key
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 const GEO_URL = 'https://api.openweathermap.org/geo/1.0';
 const AUTO_REFRESH_SECONDS = 600;
